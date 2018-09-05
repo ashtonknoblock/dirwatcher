@@ -1,0 +1,5 @@
+A haiku:
+ 
+strings and things are cool
+but no magic word
+in this file right now
